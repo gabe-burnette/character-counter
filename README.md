@@ -1,2 +1,2 @@
 # character-counter
-A one-shotted character counter created by Claude 3.5 Sonnet
+A one-shotted character counter created by Claude 3.5 Sonnet. Runs local.
